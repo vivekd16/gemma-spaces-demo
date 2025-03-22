@@ -1,4 +1,4 @@
-gradio==4.23.0
+gradio==5.22.0
 torch==2.2.1
 transformers==4.49.0
 numpy==2.0.2
