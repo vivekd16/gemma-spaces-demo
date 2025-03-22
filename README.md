@@ -1,7 +1,7 @@
 # Gemma Spaces Demo
 A Gradio-based UI to showcase text generation with Google's Gemma model.
 
-Hugging-Face Space-https://huggingface.co/spaces/Vivek6041/gemma-spaces-demo
+Hugging-Face Space-Link[https://huggingface.co/spaces/Vivek6041/gemma-spaces-demo]
 ## Setup
 1. Clone the repo: `git clone https://github.com/yourusername/gemma-spaces-demo`
 2. Install dependencies: `pip install -r requirements.txt`
