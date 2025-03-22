@@ -1,6 +1,6 @@
 # Gemma Spaces Demo
 
-A Gradio-based UI showcasing text generation with Google's Gemma model, built as part of Google Summer of Code 2025 exploration.
+A Gradio-based UI showcasing text generation with Google's Gemma model.
 
 [![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Vivek6041/gemma-spaces-demo)
 
