@@ -15,3 +15,5 @@ A Gradio-based UI showcasing text generation with Google's Gemma model, built as
    ```bash
    git clone https://github.com/vivekd16/gemma-spaces-demo.git
    cd gemma-spaces-demo
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run: `python app.py`
